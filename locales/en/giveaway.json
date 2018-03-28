@@ -16,7 +16,7 @@
   "timeLeft": ":alarm_clock: Time left: {{seconds}}s :alarm_clock:",
   "guildStats": "#Guilds Stats",
   "winner": {
-    "announcement": ">>>Okay {{mention}}:\nDo a **{{commandClaim}}** to claim your key.\n**You have 30s**",
+    "announcement": ">>>Okay {{mention}}:\nType **{{commandClaim}}** to claim your key.\n**You have 30s**",
     "invalidUser": "User invalid. No more users in giveaway ?",
     "embed": {
       "totalUsers": "Total users in giveaway : {{count}}",
